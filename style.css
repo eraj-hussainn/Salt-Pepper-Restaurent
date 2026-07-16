@@ -484,16 +484,15 @@ text-align: center;
 /*  SECOND FRANCHISE */
 
 
- .right-box{
+ .reverse .right-box{
     width:40%;
     display:inline-block;
-    vertical-align:middle;
+    margin-top: ;
 }
 
 .reverse .left-box{
     width:50%;
     display:inline-block;
-    vertical-align:middle;
     margin-left:5%;
 }
 
@@ -507,7 +506,7 @@ text-align: center;
 .Bahawalpur-image{
       width:30%;
     border-radius:6px;
-    margin-left: 50px;
+    margin-right: 50px;
 }
 
 
