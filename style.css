@@ -349,8 +349,6 @@ text-align: center;
 .page3{
     background:#111;
     padding:70px 0;
-    position:relative;
-    overflow:hidden;
 }
 
 /* Background Logo */
@@ -493,7 +491,7 @@ text-align: center;
 }
 
 .reverse .left-box{
-    width:55%;
+    width:50%;
     display:inline-block;
     vertical-align:middle;
     margin-left:5%;
@@ -506,6 +504,11 @@ text-align: center;
     width: 100%;
 }
 
+.Bahawalpur-image{
+      width:30%;
+    border-radius:6px;
+    margin-left: 50px;
+}
 
 
 
