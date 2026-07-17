@@ -353,10 +353,14 @@ text-align: center;
 
 /* Background Logo */
 
+/* .page3{
+  background-image: url(images/logo-s.png);
+} */
+
 .bg-logo{
     position:absolute;
     right:0;
-    top:120px;
+    top:1200px;
     width:325px;
     height:465px;
     opacity:0.08;
@@ -483,7 +487,9 @@ text-align: center;
 
 /*  SECOND FRANCHISE */
 
-
+.reverse{
+  margin-top: ;
+}
  .reverse .right-box{
     width:40%;
     display:inline-block;
@@ -506,7 +512,6 @@ text-align: center;
 .Bahawalpur-image{
       width:30%;
     border-radius:6px;
-    margin-right: 50px;
 }
 
 
